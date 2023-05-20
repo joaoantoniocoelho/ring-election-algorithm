@@ -11,4 +11,4 @@ Implement the Distributed Election Algorithm based on a logica ring with Go, the
 
 It's also necessary to model a way to show that it works and simulate fails so that response is not always the same (nodes that stop working).
 
-<img src="https://imgur.com/a/F1CyZDf" />
+<img src="https://imgur.com/a/F1CyZDf" alt="Imagem">
